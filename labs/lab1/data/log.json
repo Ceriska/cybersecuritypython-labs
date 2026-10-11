@@ -254,5 +254,101 @@
         "timestamp": "2026-09-14 07:04:48",
         "args": [],
         "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "user01",
+        "result": "success",
+        "timestamp": "2026-09-14 07:59:39",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "user01",
+        "result": "failure",
+        "timestamp": "2026-09-14 07:59:39",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "user05",
+        "result": "success",
+        "timestamp": "2026-09-14 07:59:39",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "unknown_user",
+        "result": "failure",
+        "timestamp": "2026-09-14 07:59:39",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "user01",
+        "result": "success",
+        "timestamp": "2026-09-14 08:08:41",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "user01",
+        "result": "failure",
+        "timestamp": "2026-09-14 08:08:41",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "user05",
+        "result": "success",
+        "timestamp": "2026-09-14 08:08:41",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "unknown_user",
+        "result": "failure",
+        "timestamp": "2026-09-14 08:08:41",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "user01",
+        "result": "success",
+        "timestamp": "2026-09-14 08:09:25",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "user01",
+        "result": "failure",
+        "timestamp": "2026-09-14 08:09:25",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "user05",
+        "result": "success",
+        "timestamp": "2026-09-14 08:09:25",
+        "args": [],
+        "kwargs": {}
+    },
+    {
+        "event": "login",
+        "user": "unknown_user",
+        "result": "failure",
+        "timestamp": "2026-09-14 08:09:25",
+        "args": [],
+        "kwargs": {}
     }
 ]
