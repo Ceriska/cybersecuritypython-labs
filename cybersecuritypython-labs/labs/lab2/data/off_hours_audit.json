@@ -1,0 +1,53 @@
+{
+    "summary": {
+        "total_records_processed": 29,
+        "total_alerts": 5
+    },
+    "alerts": [
+        {
+            "type": "off_hours",
+            "user_id": "u002",
+            "timestamp": "2026-09-21 23:40:00",
+            "action": "DOWNLOAD",
+            "resource": "/finance/payroll.csv",
+            "ip": "10.0.1.20",
+            "reason": "Activity outside working hours or during weekend"
+        },
+        {
+            "type": "off_hours",
+            "user_id": "u003",
+            "timestamp": "2026-09-22 05:20:00",
+            "action": "READ",
+            "resource": "/prod/secrets",
+            "ip": "10.0.1.30",
+            "reason": "Activity outside working hours or during weekend"
+        },
+        {
+            "type": "off_hours",
+            "user_id": "u005",
+            "timestamp": "2026-09-24 22:05:00",
+            "action": "DOWNLOAD",
+            "resource": "/finance/budget.xlsx",
+            "ip": "10.0.1.50",
+            "reason": "Activity outside working hours or during weekend"
+        },
+        {
+            "type": "off_hours",
+            "user_id": "u001",
+            "timestamp": "2026-09-26 10:00:00",
+            "action": "READ",
+            "resource": "/docs/weekend.txt",
+            "ip": "10.0.1.10",
+            "reason": "Activity outside working hours or during weekend"
+        },
+        {
+            "type": "off_hours",
+            "user_id": "u003",
+            "timestamp": "2026-09-27 13:00:00",
+            "action": "DELETE",
+            "resource": "/tmp/report.csv",
+            "ip": "10.0.1.30",
+            "reason": "Activity outside working hours or during weekend"
+        }
+    ]
+}
