@@ -1,0 +1,66 @@
+
+{
+  "categories": [
+    {"id": 1, "name": "account"},
+    {"id": 2, "name": "network"},
+    {"id": 3, "name": "endpoint"}
+  ],
+  "records": [
+    {
+      "code": "V07-01",
+      "title": "Вимірювання реагування 01",
+      "category_id": 1,
+      "value": 12.0,
+      "status": "new"
+    },
+    {
+      "code": "V07-02",
+      "title": "Вимірювання реагування 02",
+      "category_id": 2,
+      "value": 45.0,
+      "status": "in_progress"
+    },
+    {
+      "code": "V07-03",
+      "title": "Вимірювання реагування 03",
+      "category_id": 3,
+      "value": 20.0,
+      "status": "done"
+    },
+    {
+      "code": "V07-04",
+      "title": "Вимірювання реагування 04",
+      "category_id": 1,
+      "value": 35.0,
+      "status": "new"
+    },
+    {
+      "code": "V07-05",
+      "title": "Вимірювання реагування 05",
+      "category_id": 2,
+      "value": 60.0,
+      "status": "done"
+    },
+    {
+      "code": "V07-06",
+      "title": "Вимірювання реагування 06",
+      "category_id": 3,
+      "value": 18.0,
+      "status": "in_progress"
+    },
+    {
+      "code": "V07-07",
+      "title": "Вимірювання реагування 07",
+      "category_id": 1,
+      "value": 30.0,
+      "status": "done"
+    },
+    {
+      "code": "V07-08",
+      "title": "Вимірювання реагування 08",
+      "category_id": 2,
+      "value": 25.0,
+      "status": "new"
+    }
+  ]
+}
