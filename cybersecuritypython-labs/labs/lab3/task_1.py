@@ -1,1 +1,0 @@
-from shared.student import GROUP_NAME, STUDENT_NAME, VARIANT_NUMBER
